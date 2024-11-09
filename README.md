@@ -5,6 +5,7 @@ Insall OS in SSH mode
 
 Install Oink70/Android-Mining
 curl -o- -k https://raw.githubusercontent.com/Oink70/Android-Mining/main/install.sh | bash
+![Android-Mining](https://github.com/najnup/ammy_miner/blob/main/android-miner.png)
 
 Navigate to ccminer directory
 
