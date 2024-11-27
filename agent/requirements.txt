@@ -1,2 +1,4 @@
 requests
 pure-python-adb
+bcrypt=3.2.2
+paramiko
