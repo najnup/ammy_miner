@@ -32,8 +32,8 @@ if __name__ == "__main__":
                 device_battery_level = re.findall('level: (\d+)', device.shell("dumpsys battery"))
                 device_list.append({"model":device_product_model, "release_version":device_build_release, "ip_address": device_ip_address[0], "battery_level": device_battery_level[0], "device_object":device})
                 print('Next device!')
-            except:
-                print("Failed to read from device!")
+            except Exception as e:
+                print(f"Error: {e}")
 
         for device in device_list:
             print(device["model"], device["ip_address"], device["battery_level"])
