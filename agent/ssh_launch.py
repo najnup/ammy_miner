@@ -2,7 +2,7 @@ import ssh2.session
 import socket
 
 # Define server details
-hostname = "192.168.8.30"
+hostname = "192.168.8.37"
 port = 2022
 username = 'chance'
 password = 'chance'
@@ -39,11 +39,5 @@ def remote_command(hostname, port, username, password, command):
 
 if __name__ == "__main__":
     output = remote_command(hostname, port, username, password, "pidof ccminer")
-    #print("This is after!")
-    #print(output)
     print(output[0].strip())
     print(type(output[0]))
-    #new = str(response).split()
-    #print(new[0])
-    #print(new[1])
-    #print(response)

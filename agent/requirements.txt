@@ -1,4 +1,6 @@
 requests
 pure-python-adb
-bcrypt=3.2.2
+ssh2-python
+bcrypt==3.2.2
+cryptography==3.3
 paramiko
