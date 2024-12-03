@@ -7,6 +7,10 @@ from monitoring import miner_monitoring
 from ppadb.client import Client as AdbClient
 from ssh_launch import remote_command
 
+# TODO - Add device lookup for the project
+# TODO - Add messaging to telegram option when certain conditions are met, for example when device got disconnected.
+# TODO - Add project initialisation, when a Raspberry restarts so that script is able to start ADB server
+
 # Logging definition
 logging.basicConfig(filename='/home/pi/ammy_miner/agent/myminer.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
