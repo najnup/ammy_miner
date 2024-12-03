@@ -1,0 +1,71 @@
+
+
+
+
+2024-12-01 20:05:36,416:INFO:Next device!
+2024-12-01 20:05:36,508:ERROR:list index out of range
+2024-12-01 20:05:36,579:INFO:Next device!
+2024-12-01 20:05:36,735:INFO:Next device!
+2024-12-01 20:05:36,825:INFO:Next device!
+2024-12-01 20:05:36,951:INFO:Next device!
+2024-12-01 20:05:37,157:INFO:Next device!
+2024-12-01 20:05:37,161:INFO:No need to stop anything!
+2024-12-01 20:05:37,163:INFO:Battery above 80%
+2024-12-01 20:05:37,270:WARNING:Connection did not went well!
+2024-12-01 20:05:37,271:INFO:Service has to be started!
+2024-12-01 20:05:37,277:WARNING:Something went off with starting Miner software.
+2024-12-01 20:05:37,279:INFO:Battery above 80%
+2024-12-01 20:05:37,751:WARNING:Connection did not went well!
+2024-12-01 20:05:37,752:INFO:Service has to be started!
+2024-12-01 20:05:37,757:WARNING:Something went off with starting Miner software.
+2024-12-01 20:05:37,759:INFO:No need to stop anything!
+2024-12-01 20:05:37,761:INFO:Battery above 80%
+2024-12-01 20:05:37,853:WARNING:Connection did not went well!
+2024-12-01 20:05:37,853:INFO:Service has to be started!
+2024-12-01 20:05:37,881:WARNING:Something went off with starting Miner software.
+2024-12-01 20:05:37,884:INFO:No need to stop anything!
+2024-12-01 20:10:42,996:ERROR:ERROR: 'FAIL' 0006closed
+2024-12-01 20:10:43,095:ERROR:list index out of range
+2024-12-01 20:10:43,162:INFO:Next device!
+2024-12-01 20:10:43,315:INFO:Next device!
+2024-12-01 20:10:43,403:INFO:Next device!
+2024-12-01 20:10:43,524:INFO:Next device!
+2024-12-01 20:10:43,668:INFO:Next device!
+2024-12-01 20:10:43,673:INFO:Battery above 80%
+2024-12-01 20:10:43,674:WARNING:Connection did not went well!
+2024-12-01 20:10:43,675:INFO:Service has to be started!
+2024-12-01 20:10:43,682:WARNING:Something went off with starting Miner software.
+2024-12-01 20:10:43,684:INFO:Battery above 80%
+2024-12-01 20:10:43,685:WARNING:Connection did not went well!
+2024-12-01 20:10:43,686:INFO:Service has to be started!
+2024-12-01 20:10:43,686:WARNING:Something went off with starting Miner software.
+2024-12-01 20:10:43,689:INFO:No need to stop anything!
+2024-12-01 20:10:43,690:INFO:Battery above 80%
+2024-12-01 20:10:43,691:WARNING:Connection did not went well!
+2024-12-01 20:10:43,692:INFO:Service has to be started!
+2024-12-01 20:10:43,694:WARNING:Something went off with starting Miner software.
+2024-12-01 20:10:43,703:INFO:No need to stop anything!
+2024-12-01 20:27:48,437:INFO:Next device!
+2024-12-01 20:27:48,505:INFO:Next device!
+2024-12-01 20:27:48,645:INFO:Next device!
+2024-12-01 20:27:48,724:INFO:Next device!
+2024-12-01 20:27:48,813:ERROR:list index out of range
+2024-12-01 20:27:48,933:INFO:Next device!
+2024-12-01 20:27:49,140:INFO:Next device!
+2024-12-01 20:27:49,153:INFO:No need to stop anything!
+2024-12-01 20:27:49,156:INFO:Battery above 80%
+2024-12-01 20:27:49,311:WARNING:Connection did not went well!
+2024-12-01 20:27:49,313:INFO:Service has to be started!
+2024-12-01 20:27:49,340:WARNING:Something went off with starting Miner software.
+2024-12-01 20:27:49,343:INFO:Battery above 80%
+2024-12-01 20:27:49,411:WARNING:Connection did not went well!
+2024-12-01 20:27:49,412:INFO:Service has to be started!
+2024-12-01 20:27:49,418:WARNING:Something went off with starting Miner software.
+2024-12-01 20:27:49,422:INFO:No need to stop anything!
+2024-12-01 20:27:49,425:INFO:Battery above 80%
+2024-12-01 20:27:49,609:WARNING:Connection did not went well!
+2024-12-01 20:27:49,610:INFO:Service has to be started!
+2024-12-01 20:27:49,642:WARNING:Something went off with starting Miner software.
+2024-12-01 20:27:49,645:INFO:Battery above 80%
+2024-12-01 20:27:50,120:INFO:Service has to be started!
+2024-12-01 20:27:50,501:INFO:Service started!

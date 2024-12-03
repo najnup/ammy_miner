@@ -8,7 +8,7 @@ from ppadb.client import Client as AdbClient
 from ssh_launch import remote_command
 
 # Logging definition
-logging.basicConfig(filename='miner.log',filemode='a', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
+logging.basicConfig(filename='/home/pi/ammy_miner/agent/myminer.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
 # Default is "127.0.0.1" and 5037
 ### TODO Launch UserLand automatically 

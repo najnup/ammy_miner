@@ -15,6 +15,7 @@ def remote_command(hostname, port, username, password, command):
 
     # Create a session
     session = ssh2.session.Session()
+    session.set_timeout(10000)
     session.handshake(sock)
 
     # Authenticate with username and password
