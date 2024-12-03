@@ -7778,3 +7778,104 @@
 2024-12-03 06:54:30,689:INFO:Service has to be started!
 2024-12-03 06:54:30,695:WARNING:Something went off with starting Miner software.
 2024-12-03 06:54:30,698:INFO:No need to stop anything!
+2024-12-03 06:59:30,901:INFO:Next device!
+2024-12-03 06:59:30,993:INFO:Next device!
+2024-12-03 06:59:31,092:INFO:Next device!
+2024-12-03 06:59:31,195:INFO:Next device!
+2024-12-03 06:59:31,316:INFO:Next device!
+2024-12-03 06:59:31,485:INFO:Next device!
+2024-12-03 06:59:31,684:INFO:Next device!
+2024-12-03 06:59:31,689:INFO:No need to stop anything!
+2024-12-03 06:59:31,693:INFO:Battery above 80%
+2024-12-03 06:59:32,077:INFO:Miner software is running! Nothing to do here!
+2024-12-03 06:59:32,081:INFO:No need to stop anything!
+2024-12-03 06:59:32,086:INFO:No need to stop anything!
+2024-12-03 06:59:32,090:INFO:Battery above 80%
+2024-12-03 06:59:32,156:WARNING:Connection did not went well!
+2024-12-03 06:59:32,157:INFO:Service has to be started!
+2024-12-03 06:59:32,163:WARNING:Something went off with starting Miner software.
+2024-12-03 06:59:32,168:INFO:Battery above 80%
+2024-12-03 06:59:32,253:WARNING:Connection did not went well!
+2024-12-03 06:59:32,255:INFO:Service has to be started!
+2024-12-03 06:59:32,262:WARNING:Something went off with starting Miner software.
+2024-12-03 06:59:32,265:INFO:No need to stop anything!
+2024-12-03 07:04:32,447:INFO:Next device!
+2024-12-03 07:04:32,612:INFO:Next device!
+2024-12-03 07:04:32,692:INFO:Next device!
+2024-12-03 07:04:32,804:INFO:Next device!
+2024-12-03 07:04:32,925:INFO:Next device!
+2024-12-03 07:04:33,093:INFO:Next device!
+2024-12-03 07:04:33,295:INFO:Next device!
+2024-12-03 07:04:33,298:INFO:No need to stop anything!
+2024-12-03 07:04:33,300:INFO:No need to stop anything!
+2024-12-03 07:04:33,303:INFO:No need to stop anything!
+2024-12-03 07:04:33,306:INFO:No need to stop anything!
+2024-12-03 07:04:33,310:INFO:Battery above 80%
+2024-12-03 07:04:33,463:WARNING:Connection did not went well!
+2024-12-03 07:04:33,465:INFO:Service has to be started!
+2024-12-03 07:04:33,483:WARNING:Something went off with starting Miner software.
+2024-12-03 07:04:33,486:INFO:Battery above 80%
+2024-12-03 07:04:35,050:WARNING:Connection did not went well!
+2024-12-03 07:04:35,051:INFO:Service has to be started!
+2024-12-03 07:04:35,057:WARNING:Something went off with starting Miner software.
+2024-12-03 07:04:35,059:INFO:No need to stop anything!
+2024-12-03 07:09:35,219:INFO:Next device!
+2024-12-03 07:09:35,317:INFO:Next device!
+2024-12-03 07:09:35,413:INFO:Next device!
+2024-12-03 07:09:35,495:INFO:Next device!
+2024-12-03 07:09:35,616:INFO:Next device!
+2024-12-03 07:09:35,767:INFO:Next device!
+2024-12-03 07:09:35,985:INFO:Next device!
+2024-12-03 07:09:35,987:INFO:No need to stop anything!
+2024-12-03 07:09:35,989:INFO:No need to stop anything!
+2024-12-03 07:09:35,991:INFO:No need to stop anything!
+2024-12-03 07:09:35,993:INFO:No need to stop anything!
+2024-12-03 07:09:35,995:INFO:Battery above 80%
+2024-12-03 07:09:36,134:WARNING:Connection did not went well!
+2024-12-03 07:09:36,135:INFO:Service has to be started!
+2024-12-03 07:09:36,166:WARNING:Something went off with starting Miner software.
+2024-12-03 07:09:36,169:INFO:Battery above 80%
+2024-12-03 07:09:37,853:WARNING:Connection did not went well!
+2024-12-03 07:09:37,854:INFO:Service has to be started!
+2024-12-03 07:09:37,862:WARNING:Something went off with starting Miner software.
+2024-12-03 07:09:37,864:INFO:No need to stop anything!
+2024-12-03 07:14:38,082:INFO:Next device!
+2024-12-03 07:14:38,153:INFO:Next device!
+2024-12-03 07:14:38,257:INFO:Next device!
+2024-12-03 07:14:38,354:INFO:Next device!
+2024-12-03 07:14:38,477:INFO:Next device!
+2024-12-03 07:14:38,638:INFO:Next device!
+2024-12-03 07:14:38,765:INFO:Next device!
+2024-12-03 07:14:38,768:INFO:No need to stop anything!
+2024-12-03 07:14:38,770:INFO:No need to stop anything!
+2024-12-03 07:14:38,772:INFO:No need to stop anything!
+2024-12-03 07:14:38,776:INFO:No need to stop anything!
+2024-12-03 07:14:38,778:INFO:Battery above 80%
+2024-12-03 07:14:38,805:WARNING:Connection did not went well!
+2024-12-03 07:14:38,806:INFO:Service has to be started!
+2024-12-03 07:14:38,816:WARNING:Something went off with starting Miner software.
+2024-12-03 07:14:38,819:INFO:Battery above 80%
+2024-12-03 07:14:39,748:WARNING:Connection did not went well!
+2024-12-03 07:14:39,750:INFO:Service has to be started!
+2024-12-03 07:14:39,782:WARNING:Something went off with starting Miner software.
+2024-12-03 07:14:39,784:INFO:No need to stop anything!
+2024-12-03 07:19:39,989:INFO:Next device!
+2024-12-03 07:19:40,121:INFO:Next device!
+2024-12-03 07:19:40,200:INFO:Next device!
+2024-12-03 07:19:40,294:INFO:Next device!
+2024-12-03 07:19:40,416:INFO:Next device!
+2024-12-03 07:19:40,574:INFO:Next device!
+2024-12-03 07:19:40,781:INFO:Next device!
+2024-12-03 07:19:40,785:INFO:No need to stop anything!
+2024-12-03 07:19:40,787:INFO:No need to stop anything!
+2024-12-03 07:19:40,790:INFO:No need to stop anything!
+2024-12-03 07:19:40,793:INFO:No need to stop anything!
+2024-12-03 07:19:40,796:INFO:Battery above 80%
+2024-12-03 07:19:40,887:WARNING:Connection did not went well!
+2024-12-03 07:19:40,888:INFO:Service has to be started!
+2024-12-03 07:19:40,921:WARNING:Something went off with starting Miner software.
+2024-12-03 07:19:40,926:INFO:Battery above 80%
+2024-12-03 07:19:42,178:WARNING:Connection did not went well!
+2024-12-03 07:19:42,180:INFO:Service has to be started!
+2024-12-03 07:19:42,209:WARNING:Something went off with starting Miner software.
+2024-12-03 07:19:42,212:INFO:No need to stop anything!
