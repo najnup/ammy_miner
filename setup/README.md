@@ -15,6 +15,6 @@ Navigate to ccminer directory
 
 Download and replace config.json file
 <br>
-curl -o config.json https://raw.githubusercontent.com/najnup/ammy_miner/refs/heads/main/config.json
+curl -o config.json https://raw.githubusercontent.com/najnup/ammy_miner/refs/heads/main/setup/config.json
 <br>
 ![Config-Update](https://github.com/najnup/ammy_miner/blob/main/setup/config-update.png)
